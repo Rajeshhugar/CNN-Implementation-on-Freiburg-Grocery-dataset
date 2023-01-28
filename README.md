@@ -2,7 +2,7 @@
 The Freiburg Groceries Dataset consists of 5000 256x256 RGB images of 25 food classes. Examples for each class can be found below. The paper can be found [here](http://ais.informatik.uni-freiburg.de/publications/papers/jund16groceries.pdf) and the dataset [here](http://aisdatasets.informatik.uni-freiburg.de/freiburg_groceries_dataset/).
 
 ## Example images:
-![Example images](figures/examples.png?raw=true "Example Images")
+![Example images]('https://github.com/rajeshXT/CNN-Implementation-on-Freiburg-Grocery-dataset/blob/main/examples.png')
 ## Download the Dataset and Setup the Evaluation
 First, clone the repository and navigate to the src directory: <br>
 `[user@machine folder] git clone https://github.com/PhilJd/freiburg_groceries_dataset.git` <br>
